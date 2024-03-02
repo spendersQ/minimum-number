@@ -1,0 +1,21 @@
+{
+  "name": "minimum-number",
+  "version": "1.0.0",
+  "description": "Finding the minimum of two numbers",
+  "main": "src/index.js",
+  "keywords": ["minimum-number"],
+  "author": "spendersQ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spendersQ/minimum-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spendersQ/minimum-number/issues"
+  },
+  "homepage": "https://github.com/spendersQ/minimum-number#readme",
+  "dependencies": {
+    "round-date": "1.1.2",
+    "dotenv": "^16.4.5"
+  }
+}
